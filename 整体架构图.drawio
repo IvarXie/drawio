@@ -138,8 +138,16 @@
         <mxCell id="tdYyiNFsSP7ocbWgQSiu-69" value="流程模版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="190" y="385" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m4R0HQlFejcRpFFFRrUA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;curved=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="tdYyiNFsSP7ocbWgQSiu-70" target="tdYyiNFsSP7ocbWgQSiu-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="457" />
+              <mxPoint x="330" y="457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tdYyiNFsSP7ocbWgQSiu-70" value="订单管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="90" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="90" y="437" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tdYyiNFsSP7ocbWgQSiu-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tdYyiNFsSP7ocbWgQSiu-28" target="tdYyiNFsSP7ocbWgQSiu-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
